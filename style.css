@@ -45,8 +45,8 @@ body{
     height: 500px;
     padding:0px 0 0 40px;
 }
-.ast_work{
-    padding: 5px;
+.last_work img{
+    border-radius: 7px;
 }
 .my_work{
     height: 250px;
